@@ -1,0 +1,22 @@
+This is the OS/2 port of Voix 1.0.0 beta 5, a program
+useful to suppress vocal parts from a .WAV audio file.
+
+I ported it using GCC 3.3.5 with the Build Environment
+from Paul Smedley.
+
+The documentation for Voix is available in the .txt files
+present into the same directory of the executable file.
+
+I also renamed the original voixmp3.bat file in voixmp3.cmd
+for using Voix with MP3 files. Please note that, to use
+voixmp3.cmd, you must have lame.exe in your PATH or install
+voix and lame together into a single directory.
+
+Have fun with this program. If you find it useful, please
+consider making a donation to Paul Smedley.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
+
+
