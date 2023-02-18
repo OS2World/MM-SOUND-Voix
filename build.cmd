@@ -1,0 +1,1 @@
+gcc voix.c -std=gnu99 -fgnu89-inline -fno-builtin
